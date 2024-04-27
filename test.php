@@ -97,6 +97,7 @@ $('#form')[0].reset(); // To reset form fields
 <div id="mainform">
 <h2>Submit Form Without Refreshing Page</h2>
 <!-- Required Div Starts Here -->
+<br>
 <form id="form" name="form">
 <h3>Fill Your Information!</h3>
 <label>Name:</label>
